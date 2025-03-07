@@ -15,7 +15,7 @@
 
 <hr>
  <h1 align="center"> Missão Prática | Nível 5 | Mundo 3 </h1>
- <h2 align="left" > IServidores e clientes baseados em Socket, com uso de Threads tanto no lado cliente quanto no lado servidor, acessando o banco de dados via JPA. </h2> 
+ <h2 align="left" > Servidores e clientes baseados em Socket, com uso de Threads tanto no lado cliente quanto no lado servidor, acessando o banco de dados via JPA. </h2> 
  <h3>Procedimento 1: Criando o Servidor e Cliente de Teste </h3>
  <h3>Procedimento 2: Servidor Completo e Cliente Assíncrono </h3>
  <hr>
